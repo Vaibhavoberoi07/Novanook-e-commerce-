@@ -168,6 +168,7 @@
 .feature-head>h1 {
   margin-left: 2vw;
   font-weight: 100;
+  color: #1a1a1a;
 }
 
 .feature-container {
@@ -1440,11 +1441,11 @@ input[type="range"] {
   .prodect-sec-left{
     flex-direction: row;
     position: absolute;
-    top: 70%;
+    top: 69%;
     left: 0%;
     align-items: flex-start;
     width: 100%;
-    height: 20%;
+    height: 12%;
   }
 
   .many{
@@ -1459,7 +1460,7 @@ input[type="range"] {
   }
 
   .prodect-sec-right {
-    margin-top: 72vh;
+    margin-top: 75vh;
     width: 100%;
     margin-left: 0;
     height: 100%;
@@ -1493,6 +1494,7 @@ input[type="range"] {
 
   .p-head>h1{
     margin-left: 3vw;
+    color: #1a1a1a;
   }
   .sbox {
     height: 6vh;
