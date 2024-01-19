@@ -1048,9 +1048,9 @@ input[type="range"] {
   .f {
     margin-top: 0.7vh;
     margin-left: 2vw;
-    font-weight: 600;
+    font-weight: 500;
     font-size: 3.3vw;
-    color: #1a1a1a;
+    color: var(--color);
   }
 
   #checkbox {
@@ -1090,7 +1090,7 @@ input[type="range"] {
   letter-spacing: 0.5vw;
   margin-top: 2vh;
   color: #1a1a1a;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 .display{
