@@ -1054,10 +1054,9 @@ input[type="range"] {
   }
 
   #checkbox {
-    height: 3.5vh;
-    width: 3vw;
-  }
-  
+    height: 4.5vh;
+    width: 5vw;
+}
 
   .realsecection>h5 {
     margin-left: 2.5vw;
@@ -1069,6 +1068,7 @@ input[type="range"] {
     height: 1.3vw;
   }
 
+  
   .inputrange {
     width: 25vw;
   }
