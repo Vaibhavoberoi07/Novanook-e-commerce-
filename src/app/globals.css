@@ -1323,6 +1323,7 @@ input[type="range"] {
   .smallbox>h3 {
     font-size: 4vw;
     color: black;
+    font-weight: 500;
   }
 
   .footer-main {
@@ -1362,7 +1363,7 @@ input[type="range"] {
   .btn3 {
     width: 40vw;
     font-size: 5vw;
-    color: black;
+    color: var(--bg);
   }
 
   .f-column2>h2 {
