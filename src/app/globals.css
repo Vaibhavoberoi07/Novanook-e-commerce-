@@ -1057,17 +1057,12 @@ input[type="range"] {
     height: 3.5vh;
     width: 3vw;
   }
-  .gender-head {
-    color: #1a1a1a;
-    font-weight: 500;
-
-  }
   
 
   .realsecection>h5 {
     margin-left: 2.5vw;
     font-size: 3.9vw;
-    color: #6d6d6d;
+    color: #585858;
   }
 
   #range {
@@ -1351,6 +1346,11 @@ input[type="range"] {
   .wishlist {
     height: 3vh;
     width: 3vh;
+  }
+
+  .gender-head>h3{
+    color: #1a1a1a;
+    font-weight: 500;
   }
 
   #wishheart {
