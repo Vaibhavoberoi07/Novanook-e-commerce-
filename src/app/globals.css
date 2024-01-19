@@ -1057,6 +1057,14 @@ input[type="range"] {
     height: 3.5vh;
     width: 3vw;
   }
+  .gender-head {
+    color: #1a1a1a;
+
+  }
+
+  .gselection{
+    color: #6d6d6d;
+  }
 
   .realsecection>h5 {
     margin-left: 2.5vw;
@@ -1084,6 +1092,7 @@ input[type="range"] {
 .shop-r-head{
   height: 10vh;
 }
+
 
 .shop-r-head>h1{
   text-align: center;
