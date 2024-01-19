@@ -1048,7 +1048,7 @@ input[type="range"] {
   .f {
     margin-top: 0.7vh;
     margin-left: 2vw;
-    font-weight: 500;
+    font-weight: 600;
     font-size: 3.3vw;
     color: #1a1a1a;
   }
@@ -1090,7 +1090,7 @@ input[type="range"] {
   letter-spacing: 0.5vw;
   margin-top: 2vh;
   color: #1a1a1a;
-  font: 500;
+  font-weight: bold;
 }
 
 .display{
