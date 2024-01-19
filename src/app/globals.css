@@ -1059,16 +1059,15 @@ input[type="range"] {
   }
   .gender-head {
     color: #1a1a1a;
+    font-weight: 500;
 
   }
-
-  .gselection{
-    color: #6d6d6d;
-  }
+  
 
   .realsecection>h5 {
     margin-left: 2.5vw;
     font-size: 3.9vw;
+    color: #6d6d6d;
   }
 
   #range {
