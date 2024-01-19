@@ -94,10 +94,10 @@ const Product = () => {
                             </div>
                             <h1>PRODUCT CARE</h1>
                             <div className="d-li">
-                                <li className="sp-li">Machine wash with similar colors on a gentle cycle to preserve the jacket's color and texture, ensuring longevity and consistent vibrancy.</li>;
-                                <li className="sp-li">Use a mild detergent to maintain the fabric's softness and integrity after every wash, keeping it gentle on your skin and preserving the jacket's premium quality.</li>;
-                                <li className="sp-li">Tumble dry on low heat or hang to dry to maintain the jacket's shape and structure, ensuring it retains its original form and comfort.</li>;
-                                <li className="sp-li">Iron on low heat if necessary, ensuring the jacket remains wrinkle-free without compromising its reversible design and exceptional craftsmanship.</li>;
+                                <li className="sp-li">Machine wash with similar colors on a gentle cycle to preserve the jacket's color and texture, ensuring longevity and consistent vibrancy.</li>
+                                <li className="sp-li">Use a mild detergent to maintain the fabric's softness and integrity after every wash, keeping it gentle on your skin and preserving the jacket's premium quality.</li>
+                                <li className="sp-li">Tumble dry on low heat or hang to dry to maintain the jacket's shape and structure, ensuring it retains its original form and comfort.</li>
+                                <li className="sp-li">Iron on low heat if necessary, ensuring the jacket remains wrinkle-free without compromising its reversible design and exceptional craftsmanship.</li>
                                 <li className="sp-li">Avoid using bleach or any harsh chemicals that may compromise the jacket's quality and reversible features.</li>
                             </div>
                         </div>
