@@ -1292,9 +1292,9 @@ input[type="range"] {
   .btn2 {
     width: 30vw;
     height: 4vh;
-    font-weight: 100;
+    font-weight: 500;
     font-size: 2.8vw;
-    color: black;
+    color: #1a1a1a;
   }
 
   .p-price2 {
